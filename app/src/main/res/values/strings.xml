@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Happy Wish!</string>
+    <string name="action_settings">[Personalised Title]</string>
+    <string name="text">BYEE!</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Generic Name</string>
+    <string name="second_fragment_label">Happy Birthday [Name]!</string>
+    <string name="third_fragment_label">[Relevant Title]</string>
+    <string name="fourth_fragment_label">[Relevant Title]</string>
+    <string name="fifth_fragment_label">[Relevant Title]</string>
+    <string name="sixth_fragment_label">[Feedback]</string>
+    <string name="previous">Previous</string>
+
+    <string name="intro_1">“Insert a Generic Happy Birthday Message”</string>
+    <string name="intro_4">Two buttons</string>
+    <string name="intro_5">Choose your shot!</string>
+
+    <string name="button_1">Regular</string>
+    <string name="button_2">Personal</string>
+    <string name="v_wish1">This is the section where you can add your generic wish the normalised one with those normal wishes. </string>
+    <string name="v_wish2">Feel free to change the UI and the necessary background pictures to make it more suitable as per your choice.</string>>
+    <string name="v_wish3">And here\'s the traditional wish.Enjoy your day blah blah complete it.</string>
+    <string name="v_wish4">Be yourself always :)</string>
+
+
+    <string name="d_wish11">Greetings ma’am, </string>
+    <string name="d_wish12"></string>
+    <string name="d_wish14">[Personalised Name]</string>
+
+    <string name="q1">This was the section where I had some special references</string>
+    <string name="q2">You can fill it whatever relavant it seems to you. The page might seem a bit empty to you but yeah you actually have to come up with something creative</string>
+    <string name="q3">Maybe something for the person that would be special</string>
+    <string name="q5">It can also be used for other purposes like pictures and stuff by using ImageView and different stuff rather than just textual messages</string>
+
+    <string name="s1">Feedback</string>
+    <string name="s2"> [This is the part where you put a worthy ending to the entire message I had a pretty personalised message here so maybe you can try that]</string>
+    <string name="s3">Signing Off,</string>
+    <string name="s4">[Insert Name]</string>
+    <string name="s5">[Date]</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
